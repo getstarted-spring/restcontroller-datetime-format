@@ -1,4 +1,4 @@
-# Configure Java 8 Date & Time Format for Request Parameter in @RestController
+# Rest Controller - Configure Date & Time Format for Request Parameter
 
 Get Started with Spring
 
